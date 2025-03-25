@@ -20,6 +20,12 @@
 # 📹 Project Videos:
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Sebastian36 Live Stream](https://ytcards.demolab.com/?id=bnpNr9UiviM&title=Sebastian36+Live+Stream&lang=en&timestamp=1506132042&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Sebastian36 Live Stream")](https://www.youtube.com/watch?v=bnpNr9UiviM)
+[![CALL OF DUTY GHOST #1 MUCHAS MUERTES](https://ytcards.demolab.com/?id=dPPCp46mnNA&title=CALL+OF+DUTY+GHOST+%231+MUCHAS+MUERTES&lang=en&timestamp=1413768756&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CALL OF DUTY GHOST #1 MUCHAS MUERTES")](https://www.youtube.com/watch?v=dPPCp46mnNA)
+[![GTA #5](https://ytcards.demolab.com/?id=L0dtjE5DxJ0&title=GTA+%235&lang=en&timestamp=1413689989&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "GTA #5")](https://www.youtube.com/watch?v=L0dtjE5DxJ0)
+[![GTA #5](https://ytcards.demolab.com/?id=E3OaMU5yA2g&title=GTA+%235&lang=en&timestamp=1413343447&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "GTA #5")](https://www.youtube.com/watch?v=E3OaMU5yA2g)
+[![PLANTS VS ZOMBIES #1](https://ytcards.demolab.com/?id=X-Kg_yLh9Z8&title=PLANTS+VS+ZOMBIES+%231&lang=en&timestamp=1413171518&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "PLANTS VS ZOMBIES #1")](https://www.youtube.com/watch?v=X-Kg_yLh9Z8)
+[![PLANTS VS ZOMBIES #1](https://ytcards.demolab.com/?id=Q_KXx2Ewz30&title=PLANTS+VS+ZOMBIES+%231&lang=en&timestamp=1413132478&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "PLANTS VS ZOMBIES #1")](https://www.youtube.com/watch?v=Q_KXx2Ewz30)
 <!-- END YOUTUBE-CARDS -->
 
 # 📈 Stats:
