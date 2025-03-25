@@ -19,8 +19,8 @@
 
 # 📹 Project Videos:
 
-- ESP32 Drone: [Watch Video](https://youtu.be/Hvcv7kqN_ho)
-- MotorHub Project: [Watch Video](https://youtu.be/1XhUnA31D5s)
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 
 # 📈 Stats:
 
