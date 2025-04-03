@@ -25,4 +25,4 @@
 <!-- END YOUTUBE-CARDS -->
 
 # 📈 Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-juarez&layout=donut&theme=github_dark_dimmed)](https://github.com/hugo-juarez/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-juarez&layout=donut&theme=github_dark_dimmed)](https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-juarez&layout=donut&theme=github_dark_dimmed)
