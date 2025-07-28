@@ -1,5 +1,5 @@
 # 📎 About Me:
-**`Mechatronic Engineer (Embedded/Robotic Engineer)`**<br>
+**`Software Engineer (Embedded/Robotic Engineer)`**<br>
 
 
 
