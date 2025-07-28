@@ -3,7 +3,7 @@
 
 
 
-<p>I am a <strong>Mechatronics Engineer</strong> with a strong passion for <strong>embedded systems and robotics</strong>. My experience spans working on embedded system projects, where I enjoy coding in <strong>low-level programming languages</strong> to optimize performance and efficiency. I am always eager to expand my knowledge and stay at the forefront of technological advancements. Currently, I serve as the <strong>Regional Automation Process Engineer at Procter & Gamble</strong>, where I work on automation and process optimization to drive innovation and efficiency.</p>
+<p>I am a <strong>Software Engineer</strong> with a strong passion for <strong>embedded systems and robotics</strong>. My experience spans working on embedded system projects, where I enjoy coding in <strong>low-level programming languages</strong> to optimize performance and efficiency. I am always eager to expand my knowledge and stay at the forefront of technological advancements. Currently, I serve as the <strong>Software Engineer in GE Healthcare</strong>, where I work on software development for respirators and anesthytic systems.</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hugos-juarez) 
 [![Static Badge](https://img.shields.io/badge/Website-red)](https://hugo-juarez.com/)
